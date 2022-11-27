@@ -1,0 +1,20 @@
+1669514966630	geckodriver	INFO	Listening on 127.0.0.1:50499
+1669514969686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50500" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileAcFDc3"
+1669514970286	Marionette	INFO	Marionette enabled
+1669514970293	Marionette	INFO	Listening on port 50513
+Read port: 50513
+WebDriver BiDi listening on ws://127.0.0.1:50500
+1669514970524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileAcFDc3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50500/devtools/browser/dc2de13c-ccdd-4157-adae-48798558cd17
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwzU4/yN/l/tr_TR/O7xIq_9C0nj.js?_nc_x=Ij3Wp8lg5Kz, line 1787: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwzU4/yN/l/tr_TR/O7xIq_9C0nj.js?_nc_x=Ij3Wp8lg5Kz, line 1787: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwzU4/yN/l/tr_TR/O7xIq_9C0nj.js?_nc_x=Ij3Wp8lg5Kz, line 1787: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ifDm4/yz/l/tr_TR/k5VR31oV7Np.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1669514991313	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwzU4/yN/l/tr_TR/O7xIq_9C0nj.js?_nc_x=Ij3Wp8lg5Kz, line 1787: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwzU4/yN/l/tr_TR/O7xIq_9C0nj.js?_nc_x=Ij3Wp8lg5Kz, line 1787: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwzU4/yN/l/tr_TR/O7xIq_9C0nj.js?_nc_x=Ij3Wp8lg5Kz, line 1787: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ifDm4/yz/l/tr_TR/k5VR31oV7Np.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
